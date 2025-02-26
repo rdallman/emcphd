@@ -5,12 +5,92 @@
     <link>https://emc.phd/publication/</link>
       <atom:link href="https://emc.phd/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://emc.phd/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>https://emc.phd/publication/</link>
     </image>
+    
+    <item>
+      <title>Sex, Tech, and Sci-Fi: Subversive Comics in Pursuit of a Queer Sex Worker Feminist Imagination.</title>
+      <link>https://emc.phd/publication/radicalhistory/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/radicalhistory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#LetUsSurvive and #SurvivorsAgainstSESTA: Hashtag Activism, Online Claimsmaking, and Digital Mobilization Against Threat in the 2018 Anti-FOSTA/SESTA Campaign on Twitter</title>
+      <link>https://emc.phd/publication/letussurvive/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/letussurvive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Policing Patients: Treatment and Surveillance on the Frontlines of the Opioid Crisis by Elizabeth Chiarello.</title>
+      <link>https://emc.phd/publication/surveillanceandsociety/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/surveillanceandsociety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Health of Nevada Report on Sexual Economy</title>
+      <link>https://emc.phd/publication/socialhealth/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/socialhealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Dangerous Love: Sex Work, Drug Use, and the Pursuit of Intimacy in Tijuana, Mexico by Jennifer Leigh Syversten.</title>
+      <link>https://emc.phd/publication/genderandsociety/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/genderandsociety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disabled Sex Workers’ Fight for Digital Rights, Platform Accessibility, and Design Justice.</title>
+      <link>https://emc.phd/publication/dsq/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/dsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifesto for Sex-Positive Social Media</title>
+      <link>https://emc.phd/publication/arc/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/arc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YMCA of Southern Nevada Power Scholars Academy Annual Evaluation Report</title>
+      <link>https://emc.phd/publication/crea/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/crea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forging Fandom: Shared Culture and Porn Tourism at the Adult Entertainment Expo</title>
+      <link>https://emc.phd/publication/pornstudies/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/pornstudies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posting into the Void: Studying the Impact of Shadowbanning on Sex Workers and Activists.</title>
+      <link>https://emc.phd/publication/hackinghustling/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://emc.phd/publication/hackinghustling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -33,20 +113,7 @@
       <link>https://emc.phd/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://emc.phd/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>

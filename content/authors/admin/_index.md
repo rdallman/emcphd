@@ -35,23 +35,31 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Digital Rights
-  - Digital Activism
-  - etc etc
+    - Social Movements 
+    - Sexual Politics 
+    - Surveillance & Technology
+    - Social & Design (In)Justice
+    - Qualitative Methods (Trauma-Informed)
+    - Survey Research
+    - Evaluation Research
+    - Community-Driven Participatory Action Research (PAR)
+    - Public Sociology, Policy, & Advocacy
 
 education:
   - area: PhD Sociology
     institution: UNLV
-    date_start: 2016-01-01
-    date_end: 2025-05-16
-  - area: M Sociology
+    date_end: 2025
+  - area: MA Sociology
     institution: UNLV
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-
+    date_end: 2021
+  - area: Graduate Certificate in Social Justice Education
+    institution: UNLV
+    date_end: 2020
+  - area: Graduate Certificate in Sexuality, Culture, and Society
+    institution: University of Amsterdam
+    date_end: 2017
   - area: BS Sociology
     institution: Northeastern University
-    date_start: 2012-08-01
     date_end: 2016-05-31
 
 # Skills
